@@ -38,3 +38,13 @@ img{
 span{
     color: darkred;
 }
+div{
+    box-shadow: 10px 10px 10px white;
+}
+b{
+    font-weight: bolder;
+    color: black;
+}
+.footer{
+    font-size: 30px;
+}
